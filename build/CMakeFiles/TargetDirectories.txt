@@ -1,0 +1,3 @@
+/home/chase511/tmp/cmake-test/build/CMakeFiles/rebuild_cache.dir
+/home/chase511/tmp/cmake-test/build/CMakeFiles/edit_cache.dir
+/home/chase511/tmp/cmake-test/build/CMakeFiles/Tutorial.dir
